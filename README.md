@@ -1,10 +1,16 @@
 # Tableau projects
 
-In this repository I present some of my work made in Tableau. Workbooks are available in Release section as well as on [my Tableau Public profile](https://public.tableau.com/profile/andrzej.w.jtowicz#).
+In this repository I present a few of my projects made with Tableau. Some workbooks are available in Release section as well as on [my Tableau Public profile](https://public.tableau.com/profile/andrzej.w.jtowicz#).
+
+#### Table of Contents
+
+ 1. [Municipal Police of Poznań - map of interventions](#municipal-police-of-pozna%C5%84---map-of-interventions)
+ 1. [GPS tracking in Warsaw](#gps-tracking-in-warsaw)
+ 1. [Administrative division of Poland with zip codes for Tableau](#administrative-division-of-poland-with-zip-codes-for-tableau)
 
 ## Municipal Police of Poznań - map of interventions
 
-This project aims to visualize on a map the interventions made by Municipal Police of Poznań. Statistics are presented between 2013-06-17 and 2013-10-09. Shapes of districts are stored as a data source. The project repository is hosted on [GitHub](https://github.com/andre-wojtowicz/poznan-mp-interventions).
+This project aims to visualize on a map the interventions made by Municipal Police of Poznań. Shapes of districts are stored as a data source. The project repository is hosted on [GitHub](https://github.com/andre-wojtowicz/poznan-mp-interventions).
 
 [Tableau Public dashboard](https://public.tableau.com/profile/andrzej.w.jtowicz#!/vizhome/PoznaMPinterventions/Dashboard)
 
