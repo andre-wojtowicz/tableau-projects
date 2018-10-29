@@ -4,9 +4,18 @@ In this repository I present a few of my projects made with Tableau. Some workbo
 
 #### Table of Contents
 
+ 1. [Local government elections in Poland 2018 - Poznań](#local-government-elections-in-poland-2018---poznań)
  1. [Municipal Police of Poznań - map of interventions](#municipal-police-of-pozna%C5%84---map-of-interventions)
  1. [GPS tracking in Warsaw](#gps-tracking-in-warsaw)
  1. [Administrative division of Poland with zip codes for Tableau](#administrative-division-of-poland-with-zip-codes-for-tableau)
+ 
+## Local government elections in Poland 2018 - Poznań
+
+This projects visualizes results of local government elections in Poznań (Poland) in 2018. It shows on maps the voter turnout, results of presidential and city council election. The scope is constituency and electoral districts.
+
+[Tableau Public dashboard]https://public.tableau.com/profile/andrzej.w.jtowicz#!/vizhome/Wyborysamorzdowe2018Pozna/FrekwencjaPrezydent)
+
+![Local government elections in Poland 2018](images/lge-2018-poznan.png)
 
 ## Municipal Police of Poznań - map of interventions
 
