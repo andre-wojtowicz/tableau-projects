@@ -13,7 +13,7 @@ In this repository I present a few of my projects made with Tableau. Some workbo
 
 This projects visualizes results of local government elections in Poznań (Poland) in 2018. It shows on maps the voter turnout, results of presidential and city council election. The scope is constituency and electoral districts.
 
-[Tableau Public dashboard]https://public.tableau.com/profile/andrzej.w.jtowicz#!/vizhome/Wyborysamorzdowe2018Pozna/FrekwencjaPrezydent)
+[Tableau Public dashboard](https://public.tableau.com/profile/andrzej.w.jtowicz#!/vizhome/Wyborysamorzdowe2018Pozna/FrekwencjaPrezydent)
 
 ![Local government elections in Poland 2018](images/lge-2018-poznan.png)
 
